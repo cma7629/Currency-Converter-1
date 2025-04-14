@@ -8,7 +8,7 @@ public class Main {
         Currency AustralianDollar = new Currency(, , "AUD");
         Currency CanadianDollar = new Currency(, , "CAD");
         Currency SwissFrank = new Currency(, , "CHF");
-        Currency HongKongDollar = new Currency(, , );
+        Currency HongKongDollar = new Currency(, , "HKD");
 
         //Test Comment 2
 
